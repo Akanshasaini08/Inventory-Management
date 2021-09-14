@@ -9,4 +9,5 @@ A simple inventory management system built with python3 using JSON.
 [records.txt](https://github.com/Akanshasaini08/Inventory-Management/files/7116708/records.txt)
 
 
-file:///C:/Users/HP/Downloads/INVENTORY%20MANAGEMENT%20(1).html
+file:///C:/Users/HP/Downloads/INVENTORY%20MANAGEMENT%20(2).html
+file:///C:/Users/HP/Downloads/INVENTORY%20MANAGEMENT%20(2).html
